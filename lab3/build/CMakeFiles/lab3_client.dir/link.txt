@@ -1,0 +1,1 @@
+/usr/bin/g++ -g -rdynamic CMakeFiles/lab3_client.dir/mainClient.cpp.o -o lab3_client 

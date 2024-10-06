@@ -1,0 +1,1 @@
+/usr/bin/g++ -g -rdynamic CMakeFiles/odmlab1.dir/main.cpp.o -o odmlab1 

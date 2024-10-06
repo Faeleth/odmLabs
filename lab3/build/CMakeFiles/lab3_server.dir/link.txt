@@ -1,0 +1,1 @@
+/usr/bin/g++ -g -rdynamic CMakeFiles/lab3_server.dir/mainServer.cpp.o -o lab3_server 

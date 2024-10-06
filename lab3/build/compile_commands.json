@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/kacper/source/odm/lab3/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/lab3_server.dir/mainServer.cpp.o -c /home/kacper/source/odm/lab3/mainServer.cpp",
+  "file": "/home/kacper/source/odm/lab3/mainServer.cpp"
+},
+{
+  "directory": "/home/kacper/source/odm/lab3/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/lab3_client.dir/mainClient.cpp.o -c /home/kacper/source/odm/lab3/mainClient.cpp",
+  "file": "/home/kacper/source/odm/lab3/mainClient.cpp"
+}
+]
