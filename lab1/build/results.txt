@@ -1,1 +1,0 @@
-N: 500, Threads: 8, Sequential Time: 0.793988 seconds, Parallel Time: 0.322915 seconds

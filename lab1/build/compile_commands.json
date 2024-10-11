@@ -1,7 +1,8 @@
 [
 {
-  "directory": "/home/kacper/source/odm/lab1/build",
-  "command": "/usr/bin/g++   -g -o CMakeFiles/odmlab1.dir/main.cpp.o -c /home/kacper/source/odm/lab1/main.cpp",
-  "file": "/home/kacper/source/odm/lab1/main.cpp"
+  "directory": "/home/kacper/source/odmLabs/lab1/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/odmlab1.dir/main.cpp.o -c /home/kacper/source/odmLabs/lab1/main.cpp",
+  "file": "/home/kacper/source/odmLabs/lab1/main.cpp",
+  "output": "CMakeFiles/odmlab1.dir/main.cpp.o"
 }
 ]

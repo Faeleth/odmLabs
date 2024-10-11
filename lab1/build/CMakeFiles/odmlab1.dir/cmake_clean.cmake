@@ -1,7 +1,7 @@
 file(REMOVE_RECURSE
   "CMakeFiles/odmlab1.dir/main.cpp.o"
   "CMakeFiles/odmlab1.dir/main.cpp.o.d"
-  "odmlab1"
+  "odmlab1.out"
   "odmlab1.pdb"
 )
 

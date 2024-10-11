@@ -80,6 +80,8 @@ void resetMatrix(int** a, const int N) {
     }
 }
 
+// sudo sysctl -w kernel.perf_event_paranoid=0 to make perf work
+
 int main(int, char**){
     srand(time(NULL));
     double time1, time2;
